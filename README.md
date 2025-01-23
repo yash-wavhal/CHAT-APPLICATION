@@ -121,6 +121,12 @@ The project is designed with extensibility in mind. Future plans include:
 - **Theme Customization**: Allowing users to personalize the app's appearance with custom themes.
 
 ---
+## **Image Links**
+
+- **RIGESTER PAGE**: ![Register Page Screenshot](https://github.com/yash-wavhal/CHAT-APPLICATION/blob/main/frontend/public/Screenshot%202025-01-23%20185953.png)  
+- **LOGIN PAGE**: ![Login Page Screenshot](https://github.com/yash-wavhal/CHAT-APPLICATION/blob/main/frontend/public/Screenshot%202025-01-23%20185844.png)  
+- **WELCOME PAGE**: ![Welcome Page Screenshot](https://github.com/yash-wavhal/CHAT-APPLICATION/blob/main/frontend/public/Screenshot%202025-01-23%20190517.png)
+- **CHAT INITIATION**: ![Chat Initiation Screenshot](https://github.com/yash-wavhal/CHAT-APPLICATION/blob/main/frontend/public/Screenshot%202025-01-23%20185037.png)
 
 ## **Conclusion**
 
