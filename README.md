@@ -1,17 +1,3 @@
-# CHAT-APPLICATION
-
-"COMPANY": CODTECH IT SOLUTIONS
-
-"NAME": YASH NARENDRA WAVHAL
-
-"Intern ID": CT08JYP
-
-"DOMAIN": FULL STACK DEVELOPMENT
-
-"DURATION": 4 WEEKS
-
-"MENTOR": NEELA SANTOSH
-
 # Chat-Application with PERN Stack
 
 This project is a **real-time chat application** built using the **PERN (PostgreSQL, Express, React, Node.js) stack** with additional technologies such as **TypeScript**, **Prisma**, and **Socket.io**. It is designed to provide seamless communication, user-friendly interfaces, and robust back-end functionality for modern chat applications. With advanced technologies, this app ensures real-time updates, and a scalable architecture.
